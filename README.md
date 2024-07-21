@@ -22,10 +22,10 @@ To run the project locally, follow these steps:
 
 **Clone the repository:**
 
-    ```bash
+ ```sh
     git clone https://github.com/PAVIT0512/Home-Price-Predictor.git
     cd Home-Price-Predictor
-    ```
+ ```
     
 ## How It Works 🔍
 

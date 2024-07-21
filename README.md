@@ -11,10 +11,10 @@ Welcome to the Home Price Predictor project! This project aims to predict home p
 
 ## Project Structure 📁
 
-- `data/`: Contains datasets used for training and testing. 📂
-- `notebooks/`: Jupyter notebooks for exploratory data analysis and model building. 📒
-- `scripts/`: Python scripts for data preprocessing, feature engineering, and model training. 🐍
-- `models/`: Trained models and saved artifacts. 🗃️
+- Contains datasets used for training and testing. 📂
+- Jupyter notebooks for exploratory data analysis and model building. 📒
+- Python Scripts for data preprocessing, feature engineering, and model training. 🐍
+- Trained models and saved artifacts. 🗃️
 
 ## Getting Started 🚀
 
